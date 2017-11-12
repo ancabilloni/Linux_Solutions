@@ -12,3 +12,5 @@
 4) Fix corrupted USB drive with Window Diskpart
 - https://www.youtube.com/watch?v=KWUM6iwPKvA
 
+5) Install .deb file in Linux:
+- https://unix.stackexchange.com/questions/159094/how-to-install-a-deb-file-by-dpkg-i-or-by-apt
