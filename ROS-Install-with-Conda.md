@@ -1,7 +1,7 @@
 *This document shows steps for a method to install ROS on a system with existing Conda.* 
 *The following steps were tested on ROS Kinetic and Miniconda3 on Ubuntu 16.04*
 
-### Understand the conflict with Python between ROS and Conda:
+### Understand the Python conflict between ROS and Conda:
 - Ubuntu 16.04 has Python 2.7 by default.
 - Current ROS Kinetic supports up to Python 2.7 on Ubuntu 16.04.
 - Conda installation with Python 3 by default, and will set Python path automatically to Python 3 for the system.
