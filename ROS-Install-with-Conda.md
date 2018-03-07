@@ -5,7 +5,7 @@
 - Ubuntu 16.04 has Python 2.7 by default.
 - Current ROS Kinetic supports up to Python 2.7 on Ubuntu 16.04.
 - Conda installation with Python 3 by default, and will set Python path automatically to Python 3 for the system.
-So there will be incompability issues when trying to install Python packages or run Python script meant for ROS on a Conda existing machine.
+While installing ROS itself on a Cona existing machine may not have any problem, there will be incompability issues when trying to install Python packages or run Python script meant for ROS on a Conda existing machine.
 
 ### Solution:
 **Step 1:** Test current Python version.
